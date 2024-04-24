@@ -1,5 +1,4 @@
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-
           The goal was to keep track of items in storage and notify the user when the count is low through an sms text. The requirements started with a dtabase with two tables. individual sreen for login with option to create login if none has been made yet. A screen that specififcally uses a grid to display the items in inventory. mechanisms for adding/removing Items, increase or decrease the amount in storage, and a mechanism to alert the user when the inventory is low or 0 which was sms notification here. The user needs were structured information that is stored locally and allows the user full control to track items coming and going. 
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
