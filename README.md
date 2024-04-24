@@ -24,18 +24,3 @@ Considering the full app design and development process, from initial planning t
 In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
           I think that has to be the implementation of the databases. Creating the database with multiple tables in Android studio requires knowledge of multiple programming langauges and principles. I was able to implement a local database that was effective and organized. Split into two tables, all interfacing from the layout to the java class to the 
           methods that query the database. So i think that i was very successful in showing my knowledge, skills, and experience by creating error free code that established a well designed database and its interaction with a java application.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FIVE TABS
